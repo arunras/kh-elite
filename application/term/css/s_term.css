@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+.term_wrapper
+{
+	width:1080px;
+	height:auto;
+}
+.term_link{
+	height: 400px;
+	margin: 30px 0px 0px 100px;
+}
+.term_link .link
+{
+	display: block;
+	font-size: 20px;
+	text-decoration: none;
+	margin-bottom: 10px;
+}
+
+.term_link .link:hover
+{
+	color:#F00;
+}
+
+.term
+{
+	//margin: 30px 0px 0px 100px;
+	//border: 2px #00f solid;	
+}
+
+.term .paragraph 
+{
+	width: 100%;
+	margin: 20px 0px 0px 0px;
+	//border: 1px #00f solid;
+}
+.term .paragraph .title
+{
+	font-weight: bold;
+}
+.term .paragraph .content
+{
+	//border: 1px #CCC solid;
+}
+.term .paragraph .content .indent
+{
+	margin-left: 30px;
+}

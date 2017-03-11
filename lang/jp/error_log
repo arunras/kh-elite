@@ -1,0 +1,5 @@
+[13-Oct-2011 03:34:30] PHP Warning:  include(/home2/buononav/public_html/camitss/rakugo/application/performer/run_perlist.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/buononav/public_html/camitss/rakugo/include/language-index.php on line 124
+[13-Oct-2011 03:34:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home2/buononav/public_html/camitss/rakugo/application/performer/run_perlist.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home2/buononav/public_html/camitss/rakugo/include/language-index.php on line 124
+[14-Oct-2011 21:20:22] PHP Fatal error:  Cannot redeclare class tbl in /home2/buononav/public_html/camitss/rakugo/application/tbl/tbl.class.php on line 12
+[14-Oct-2011 21:20:25] PHP Fatal error:  Cannot redeclare class tbl in /home2/buononav/public_html/camitss/rakugo/application/tbl/tbl.class.php on line 12
+[14-Oct-2011 21:20:34] PHP Fatal error:  Cannot redeclare class tbl in /home2/buononav/public_html/camitss/rakugo/application/tbl/tbl.class.php on line 12

@@ -1,0 +1,152 @@
+add; Add
+edit;編集する
+delete;削除する
+addition;出演者追加
+register;登録
+update; 更新する
+cancel; 変更せず戻る
+operation; 運営会社
+terms of use;ご利用規約
+inquiry; お問い合わせ
+name; お名前(※)
+name(furigana); お名前（フリガナ）(※)
+firt name(chinese); 姓
+last name(chinese); 名
+first name(japanese);セイ
+last name(japanese);メイ
+e-mail address; E-mailアドレス(※)
+inquiry contents; お問合せ内容(※)
+home; ホーム
+i search rakugo society; 落語会を検索
+list of comic story tellers; 噺家一覧
+site map; サイトマップ
+the story family name, name suffixed with 'tei', the material; ※噺家名、亭号、ネタなど
+comic storyteller name; 噺家名
+hometown; 出身地
+musical accompaniment on a stage; 出囃子
+material; ネタ
+date of birth; 生年月日
+teacher; 師匠
+durability material; 持ちネタ
+homepage blog; ホームページ・ブログ
+performer_filter; 噺家名
+keyword; キーワード
+meeting place names;※会場名など
+filter by date from; 日付
+to; から
+date; 開催日
+time; 時間
+title; 公演名
+performer;出演者
+meeting place; 会場
+nearest; 最寄駅
+switch type; 表示切替
+list view;一覧表示
+calendar view; カレンダー表示
+appearance; 出演
+reference;お問合せ先
+address; 住所
+neighborhood station;最寄り駅
+open; 開場
+finish; 終演
+perform; 開演
+edit, delete;編集・削除
+previous month; 前月
+this month; 今月
+next month; 次月
+date and time; 日時
+search; 検索
+theme song; 出囃子
+best story; 持ちネタ
+homepage; ホームページ・ブログ
+mail address; メールアドレス
+upload;画像をアップロード
+upload picture; 画像をアップロード
+choose file; ファイルを選択
+password; パスワード
+confirm; 確認用
+pickup; ピックアップ
+pickup①; ピックアップ①
+pickup②; ピックアップ②
+pickup③;ピックアップ③
+registration name; 登録名
+pickup comment; ピックアップコメント
+schedule; スケジュールから登録
+back; 戻る
+choice; 選択
+social position;身分
+occupation;職業
+nearest station; 最寄駅
+schedule management; スケジュール管理
+name suffixed with 'tei' master;亭号マスタ
+are you sure want to delete this?; 削除して宜しいですか
+openning; 開場
+curtain; 終演
+group filter; 絞込み条件
+add performer; 出演者追加
+delete performer; 出演者削除
+save event; 登録
+m; 月
+n; 日
+y; 年
+sitemap search; 落語会を検索
+list performer; 噺家一覧
+sitemap; サイトマップ
+company; 運営会社
+term of usage; ご利用規約
+registration complete; 登録完了しました。
+registration; 登録
+group url; ホームページ
+theater url; ホームページ
+save; 保存
+administrator; 管理人
+my profile; マイプロファイル
+master table; マスターテーブル
+logout; ログアウト
+narrowing condition; 絞込み条件
+pickup management; ピックアップ管理
+pickup schedule; スケジュールから選択
+pickup performence; 出演者から選択
+operation; 操作
+detail; 詳細
+banner; バナー
+register event; スケジュール登録
+no matching records found; 該当なし
+performer management; 噺家管理
+new password; 新しいパスワード
+edit profile; プロファイル更新
+add new performer; 噺家新規登録
+pickup　management; ピックアップ管理
+tei suffix; 亭号
+email;  メールアドレス
+occupation master; 職業マスター
+tei name master; 亭号マスター
+position master; 身分マスター
+theater master; 奇席＆店舗マスター
+group master; 所属団体マスター
+rakugo; 落語ちゃん
+tei name; 亭号
+position; 身分
+theater; 奇席
+group; 所属団体
+this field is required; 必須です。
+please enter a valid email address; 無効なメールアドレスです。
+please enter a valid url; 無効なホームページアドレスです。
+please enter the same value again; パスワードが不一致です。
+name*; お名前(※)
+mail address*; メールアドレス(※)
+password*; パスワード(※)
+confirm*; 確認用(※)
+new password*; 新しいパスワード(※)
+save successfully; 保存しました。
+uploaded file is not supported!; 画像ファイルではありません！
+are you sure?; 宜しいですか？
+theater exist; この奇席が既に存在しています。
+price; 　料金
+description; 備考
+top; トップページ
+show on top page; トップページでバナーを表示する
+add to master; ﾏｽﾀｰに新規追加
+update master; ﾏｽﾀｰを更新
+get directions; ルート・乗換案内
+data already exist!; データが既に存在しています！

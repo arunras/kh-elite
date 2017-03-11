@@ -1,0 +1,257 @@
+@charset "utf-8";
+/* CSS Performer */
+/*==Form Registration===============================================================================================*/
+.form_perregistration
+{	
+	width: 1080px;
+	background-color: #FAFAFA;
+	padding: 10px 5px 10px 5px;
+}
+.form_perregistration .label
+{
+	color: #999;
+	text-align: right;
+	vertical-align: middle;
+	width: 130px;
+	padding: 3px 10px 0px 0px;
+}
+.form_perregistration .textbox
+{
+	text-align: left;
+	width: 300px;
+	height: 20px;
+	margin: 5px 0px 0px 0px;
+	padding:1px 2px 1px 2px;
+}
+.form_perregistration .textarea
+{
+	resize: none;
+	width: 300px;
+	margin: 5px 0px 0px 0px;
+	padding:1px 2px 1px 2px;
+}
+.form_perregistration .alert_text{
+	color: #F00;
+}
+.form_perregistration .tip
+{
+	font-size: 9px;
+}
+div.Lmessages
+{
+	display: none;
+	padding: 1px 1px 1px 1px;
+	border: 1px #F00 solid;
+}
+div.Lmessages span
+{
+	display: block;
+	padding: 5px 5px 5px 20px;
+	border: 1px #CCC solid;
+}
+
+/*==END Form Registration===============================================================================================*/
+/*==User Profile===============================================================================================*/
+.user_profile
+{
+	width: 1080px;
+	background-color: #FFF;
+	/*border: 2px #F00 solid;*/
+	padding: 10px 10px 10px 10px;
+}
+.user_profile .label
+{
+	color: #666;
+	text-align: left;
+	width: 120px;
+	padding: 2px 2px 2px 5px;
+	background-color: #FFFFF3;
+	border-bottom: 1px #CCC solid;
+	border-right: 1px #CCC solid;
+}
+.user_profile .name
+{
+	font-size:20px;
+	font-weight: bold;
+	padding-bottom: 2px;
+	border-bottom: 2px #333 solid;
+}
+.user_profile .name span
+{
+	 border-left: 3px #CC3 solid;
+	 padding: 0px 0px 0px 3px;
+}
+.user_profile .picture
+{
+	width: 200px;
+	padding: 2px 2px 2px 2px;
+	/*border: 1px #CCC solid;*/
+}
+.user_profile .picture img{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 2px 2px 2px;
+	border: 1px #CCC solid;
+}
+.user_profile .userinfo
+{
+	width: 500px;
+	vertical-align:top;
+	margin: 0px 0px 0px 30px;
+}
+.user_profile .userinfo .info
+{
+	padding: 0px 0px 0px 0px;
+	margin: 5px 0px 0px 0px;
+	background-color: #FFF;
+	border: 2px #333 solid;
+}
+.user_profile .userinfo .info td
+{
+	height: 20px; 
+}
+.user_profile .userinfo .info .data
+{
+	color: #000;
+	padding: 2px 2px 2px 5px;
+	border-bottom: 1px #CCC solid;
+}
+.user_profile td
+{
+	vertical-align: top;	
+}
+.user_profile .link
+{
+	color: #09C;
+	text-decoration: none;
+}
+.user_profile .link:hover
+{
+	color: #06C;
+	text-decoration: underline;
+}
+.user_profile a
+{
+	text-decoration: none;
+}
+.user_profile .pwtext
+{
+	text-decoration: none;
+	color: #CCC;
+}
+.user_profile .pwtext:hover
+{
+	text-decoration: underline;
+	color: #069;
+}
+/*
+.user_profile .button
+{
+	float: right;
+	text-align: center;
+	color: #FFF;
+	margin: 5px 10px 0px 0px;
+	padding:5px 5px 5px 3px;
+	width: 60px;
+	height: 17px;
+	background-color: #09F;
+}
+.user_profile .button:hover
+{
+	background-color: #09C;
+}
+*/
+/*==END User Profile===============================================================================================*/
+/*==List Performer Profile===============================================================================================*/
+.list_performer
+{
+	width: 100%;
+}
+.list_performer .tip
+{
+	font-size: 10px;
+	padding: 2px 2px 2px 2px;
+}
+.list_performer .search_label
+{
+	font-size: 15px;
+	font-weight: bold;
+	width: 98.4%;
+	background-color: #CCC;
+	padding: 2px 2px 2px 2px;
+	margin-left:1px;
+	border: 1px #CCC solid;
+}
+.list_performer .nar_label
+{
+	font-size: 15px;
+	font-weight: bold;
+	margin: 2px 2px 15px 2px;
+	padding: 8px 3px 8px 10px;
+	border: 1px #CCC solid;
+}
+
+.list_performer td
+{	
+	vertical-align: top;
+	padding: 0px 2px 0px 2px;
+}
+.list_performer .txt_search
+{
+	height: 20px;
+	padding: 2px 2px 2px 2px;
+	margin: 0px 0px 0px 0px;
+	border: 2px #09C solid;
+}
+.list_performer .narrow
+{	
+	font-weight: bold;
+	height: 23px;
+	border-bottom: 1px #CCC dotted;
+	margin: 0px 2px 0px 2px;
+	padding: 4px 2px 1px 5px;
+}
+.list_performer .narrow:hover
+{	
+	cursor: pointer;
+	background-color: #ffeeee;
+}
+.list_performer .datatable
+{
+	font-size: 13px;	
+}
+.list_performer .title_list
+{
+	margin-bottom: 5px;
+}
+.list_performer .per_name
+{
+	color: #C30;
+	text-align: center;
+}
+
+.list_performer table#ilistperformer tbody tr:hover 
+{	
+	background-color: #ffeeee!important;
+	cursor: pointer;
+}
+.list_performer table#ipickupperformerlist tbody tr:hover 
+{	
+	background-color: #ffeeee!important;
+}
+
+.list_performer #search_performer
+{	
+	width: 250px;
+	height: 20px;
+	padding: 2px 2px 2px 2px;
+	margin: 0px 0px 0px 0px;
+}
+.list_performer td.radio_action:hover
+{
+	background-color: #CCC;
+	cursor: pointer;
+}
+/*==END ListPerformer Profile===============================================================================================*/
+
+

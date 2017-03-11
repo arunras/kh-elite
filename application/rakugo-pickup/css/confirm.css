@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+#confirm_wrapper
+{
+	width:1080px;
+	height:auto;
+	text-align:center;
+}
+#confirm_wrapper table
+{
+	border:2px #000 solid ;
+	width:700px;
+	margin-top: 20px;
+}
+#confirm_wrapper td
+{
+	 border:1px #EEE solid ;
+	 width:100px;
+	 text-align:left;
+	 padding: 5px 30px 5px 5px;
+}
+#confirm_wrapper hr
+{
+	background-color:#000;
+	height:1px;
+}
+#confirm_wrapper .label-text
+{
+	//border: 1px #F00 solid;
+	margin: 7px 0px 0px 0px;
+}
+#confirm_wrapper textarea
+{
+	padding: 5px 24px 5px 5px;
+}
+
+div.Lmessages
+{
+	display: none;
+	padding: 1px 1px 1px 1px;
+	border: 1px #F00 solid;
+}
+div.Lmessages span
+{
+	display: block;
+	padding: 5px 5px 5px 20px;
+	border: 1px #CCC solid;
+}

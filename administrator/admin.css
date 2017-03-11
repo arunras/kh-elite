@@ -1,0 +1,10 @@
+div.ads_block{
+    /*border: 1px solid #B2B27F;*/
+    background: #fff;
+    padding-bottom: 5px;
+}
+
+div.ads_block:hover{
+    background: WhiteSmoke;
+}
+

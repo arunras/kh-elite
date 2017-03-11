@@ -1,0 +1,49 @@
+.button {
+	background: url(../../images/btn_left.png) no-repeat;
+	padding: 0 0 0 10px;
+	margin: 5px 0;
+    cursor: pointer;
+}
+.button label{
+	float: left;
+	height: 40px;
+	background: url(../../images/btn_stretch.png) repeat-x left top;
+	line-height: 40px;
+	padding: 0 10px;
+	color: #000;
+	font-size: 1em;
+	text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+}
+.button span {
+	background: url(../../images/btn_right.png) no-repeat;
+	float: left;
+	width: 10px;
+	height: 40px;
+    cursor: pointer;
+}
+
+/* custom color */
+.button.yellow{background-color: #ECF10A;}
+.button.yellow label{color: #fff;}
+.button.yellow:hover{background-color: yellow;}
+
+.button.red{background-color: #CC0000;}
+.button.red label{color: #fff;}
+.button.red:hover{background-color: #FF4E00;}
+
+/*.button.pink{background-color: #FF59AC;}*/
+
+.button.pink {background-color:#FD8888;}
+.button.pink label{color: #fff;}
+.button.pink:hover{background-color:#FA9999;}
+/*.button.pink:hover{background-color: #FF83D9;}*/
+
+.button.green {background-color:#FFFF00;}
+.button.green label {color:#fff;}
+.button.green:hover {background-color:#CCCC00;}
+
+
+}
+

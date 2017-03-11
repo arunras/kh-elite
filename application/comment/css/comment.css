@@ -1,0 +1,40 @@
+/* 
+    Document   : comment
+    Created on : Nov 1, 2011, 10:09:37 AM
+    Author     : Camitss_ Khemarin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+div.comment_wrapper{
+    display: block;
+    width: 100%;    
+    float: left;    
+}
+
+div.event_comment_row{
+    width: 500px;      
+    padding: 10px 0 10px 0;
+    border-bottom: 1px solid #EDEDED;
+}
+
+div.event_comment_row span.title{
+    color: #000;
+    font-weight: bold;
+}
+
+div.event_comment_row span.date{
+    color: #858550;    
+}
+
+input[type=text].comment_title{
+    width: 490px;
+    height: 15px;
+    padding-right: 5px;
+    padding-left: 5px;
+}

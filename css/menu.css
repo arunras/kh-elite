@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+#tabs {
+	float:left;
+	width:100%;
+	font-size:15px;
+	line-height:normal;
+	border-bottom:1px solid #ddd;
+	margin-bottom:1em; /*margin between menu and rest of page*/
+	overflow:hidden;
+	}
+
+#tabs ul {
+	margin:0;
+	padding:10px 10px 0 0px;
+	list-style:none;
+	
+	}
+
+#tabs li {
+	display:inline;
+	margin:0;
+	padding:0;
+	}
+
+#tabs a {
+	float:left;
+	background:url("menu_images/left.png") no-repeat left top;
+	margin:0;
+	padding:0 0 0 6px;
+	text-decoration:none;
+	}
+
+#tabs a span {
+	float:left;
+	display:block;
+	background:url("menu_images/right.png") no-repeat right top;
+	padding:6px 15px 4px 6px;
+	margin-right:2px;
+	color:#FFF;
+	}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs a span {float:none;}
+
+/* End IE5-Mac hack */
+#tabs a:hover span {
+	}
+
+#tabs a:hover {
+	background-position:0% -42px;
+	}
+
+#tabs a:hover span {
+	background-position:100% -42px;
+	}
+
+#hoz{
+	text-decoration:none;
+	font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif;
+	font-style: italic;
+	font-size:18px;
+	font-weight: normal;
+}
+/*RUN*/
+/*style for display when someone try to hack this website*/
+.hacker{
+	width: 1080px;
+	height: 300px;
+	font-size: 50px;
+	color: #F00;
+	text-align:center;
+	vertical-align: middle;
+	background-color: #000;
+	padding: 10px 5px 10px 5px;
+	margin-bottom: 10px;
+	border: 5px #F00 solid;
+}
+/*end RUN*/

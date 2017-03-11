@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sitemap_wrapper
+{
+	width:1080px;
+	height:auto;	
+	margin: 0px auto;
+	padding: 1px 1px 20px 1px;
+	border: 0px #F00 solid;
+}
+
+.sitemap
+{
+	width: 800px;
+	margin: 0px auto;
+	margin-top: 10px;
+	border: 1px #CCC solid;
+}
+.sitemap .item
+{	
+	display: block;
+	color: #C33;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 10px 10px 10px 10px;
+	border-bottom: 1px #CCC solid;
+}
+.sitemap .item:hover
+{
+	color: #F00;
+	background-color: #FAFAFA;
+}
+.sitemap .item img
+{
+	margin: 0px 5px 0px 0px;
+}
